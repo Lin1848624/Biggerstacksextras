@@ -116,3 +116,8 @@ Tweakerge 0.1.5 在 `ItemStack.getMaxStackSize` 的最前面直接取消，返�
 ```
 
 产物：`build/libs/biggerstacksextras-1.0.2.jar`。
+
+## 许可证
+
+GNU Affero General Public License v3.0（AGPL-3.0-only）。源码：https://github.com/Lin1848624/Biggerstacksextras
+
