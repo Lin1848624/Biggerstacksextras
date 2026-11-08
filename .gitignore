@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# 运行/日志
+run/
+logs/
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 反编译/临时工作目录（不提交）
+work/
+
+# 系统
+.DS_Store
+Thumbs.db
