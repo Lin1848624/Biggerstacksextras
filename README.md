@@ -17,7 +17,7 @@ Minecraft 1.20.1 / Forge 47.4.10 的附属模组，给 [Bigger Stacks](https://m
 
 ## 安装
 
-1. 把 `biggerstacksextras-1.0.1.jar` 放进 `mods/`。
+1. 把 `biggerstacksextras-1.0.2.jar` 放进 `mods/`。
 2. 确认 `mods/` 里已有 Bigger Stacks。
 3. 启动一次游戏，生成 `config/biggerstacksextras-common.toml`。
 4. 进游戏用 `/bsextras get` 看当前数值；用 `/bsextras set` 改，立即生效。
@@ -115,4 +115,9 @@ Tweakerge 0.1.5 在 `ItemStack.getMaxStackSize` 的最前面直接取消，返�
 ./gradlew build
 ```
 
-产物：`build/libs/biggerstacksextras-1.0.1.jar`。
+产物：`build/libs/biggerstacksextras-1.0.2.jar`。
+
+## 许可证
+
+GNU Affero General Public License v3.0（AGPL-3.0-only）。源码：https://github.com/Lin1848624/Biggerstacksextras
+

@@ -47,5 +47,5 @@
 ## 回退
 
 1. 先把所有超过 64 的堆叠拆开（尤其 TACZ 子弹）。
-2. 删 `mods/biggerstacksextras-1.0.1.jar`。
+2. 删 `mods/biggerstacksextras-1.0.2.jar`。
 3. 想彻底干净：删 `config/biggerstacksextras-common.toml`。

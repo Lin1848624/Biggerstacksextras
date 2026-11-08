@@ -1,4 +1,4 @@
-# CurseForge 上传材料 — Bigger Stacks Extras 1.0.1
+# CurseForge 上传材料 — Bigger Stacks Extras 1.0.2
 
 ## 项目字段（后台直接照填）
 
@@ -7,7 +7,7 @@
 - Main category: Addons
 - Additional categories: Storage, Utility & QoL
 - Environment: Client and Server
-- License: MIT
+- License: GNU Affero General Public License v3.0 (AGPL-3.0-only)
 - Game version: 1.20.1
 - Mod loader: Forge
 - Required dependency: Bigger Stacks (Required Dependency)
@@ -82,9 +82,10 @@ IMPORTANT
 - Tridents and crossbows are always excluded: a trident throw would duplicate the stack, and crossbow loading state is stored on the stack itself.
 - GTCEu electric tools always stay at 1 because their charge is stored on the shared stack.
 - Butchery code and assets are not used; only item ids are referenced. This mod is not affiliated with Bigger Stacks, TACZ, Butchery or GTCEu.
+- 1.0.1 and earlier were released under the MIT license; 1.0.2 and later are licensed under AGPL-3.0-only.
 
 LICENSE / SOURCE
-MIT License. Source: https://github.com/Lin1848624/Biggerstacksextras
+GNU Affero General Public License v3.0 (AGPL-3.0-only). Source: https://github.com/Lin1848624/Biggerstacksextras
 
 ---
 
@@ -150,11 +151,17 @@ Bigger Stacks Extras 是 Bigger Stacks 的附属模组（Minecraft 1.20.1 / Forg
 - 三叉戟和十字弓永远排除：三叉戟投掷会把整叠复制进投射物，十字弓的装填状态记在整叠上。
 - GTCEu 电动工具永远是 1，因为电量存在共享的整叠 NBT 里。
 - 没有使用 Butchery 的代码或素材，只引用了物品 id。本模组与 Bigger Stacks、TACZ、Butchery、GTCEu 的官方团队无关。
+- 1.0.1 及更早的版本按 MIT 许可证发布；从 1.0.2 起改为 AGPL-3.0-only。
 
 许可证 / 源码
-MIT 许可证。源码：https://github.com/Lin1848624/Biggerstacksextras
+GNU Affero General Public License v3.0（AGPL-3.0-only）许可证。源码：https://github.com/Lin1848624/Biggerstacksextras
 
 ## Changelog（文件页填这个）
+
+1.0.2
+Changed
+- License changed to GNU Affero General Public License v3.0 (AGPL-3.0-only); jar metadata updated.
+- No gameplay or config changes.
 
 1.0.1
 Added
